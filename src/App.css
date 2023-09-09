@@ -20,6 +20,24 @@ ul.nav-ul {
     width: 100%;
     background-color: skyblue;
 }
+.signup-box {
+  margin-left: 30%;
+}
+input.input-box {
+  display: block;
+  margin: 25px;
+  padding: 8px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+button.signup-btn {
+  margin: 25px;
+  width: 150px;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
