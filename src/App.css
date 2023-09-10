@@ -23,6 +23,10 @@ ul.nav-ul {
 .signup-box {
   margin-left: 30%;
 }
+.login-box{
+  margin-left: 30%;
+
+}
 input.input-box {
   display: block;
   margin: 25px;
@@ -31,6 +35,14 @@ input.input-box {
   border: 1px solid skyblue;
 }
 button.signup-btn {
+  margin: 25px;
+  width: 150px;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+button.login-btn{
   margin: 25px;
   width: 150px;
   padding: 10px;
