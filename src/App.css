@@ -86,7 +86,12 @@ button.add-product-btn {
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+span.invalid-input {
+  margin-left: 26px;
+  margin-top: -20px;
+  color: red;
+  display: block;
+}
 .App-link {
   color: #61dafb;
 }
