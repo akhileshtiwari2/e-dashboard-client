@@ -59,6 +59,17 @@ img.logo {
   margin-top: 8px;
   margin-left: 20px;
 }
+.product-container{
+  margin-left: 30%;
+}
+button.add-product-btn {
+  margin: 25px;
+  width: 150px;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
