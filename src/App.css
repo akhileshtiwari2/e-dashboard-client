@@ -109,6 +109,13 @@ span.invalid-input {
 .products-header{
   font-weight: bold;
 }
+.search-prduct {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid skyblue;
+  padding-left: 20px;
+}
 
 .App-link {
   color: #61dafb;
